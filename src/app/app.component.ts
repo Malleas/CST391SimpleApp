@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
-  displayNavbar = true
+  displayNavbar = false
 
   title = 'Activity 3 Part 1';
 }
